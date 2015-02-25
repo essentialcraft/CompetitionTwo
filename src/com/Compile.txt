@@ -1,0 +1,14 @@
+
+/*
+ * To compile from the command line copy and paste this into the terminal at the root folder
+ *
+ *
+ */
+
+javac -d bin src/com/Main.java src/com/utilities/Sorter.java src/com/utilities/InputMethods.java src/com/castle/Constants.java 
+
+
+
+
+
+java -cp bin com.Main

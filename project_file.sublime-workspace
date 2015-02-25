@@ -1,0 +1,1945 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"fileReader"
+			],
+			[
+				"InputM",
+				"inputMethods"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"println",
+				"println"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"BACK",
+				"background-image"
+			],
+			[
+				"link",
+				"link"
+			],
+			[
+				"di",
+				"dirtysoapla"
+			],
+			[
+				"font-fa",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"header",
+				"header_font_white"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"fon",
+				"header_font_white"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"white",
+				"whitefont"
+			],
+			[
+				"black",
+				"blackfont"
+			],
+			[
+				"C",
+				"CourseName"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"IN",
+				"INSTITUTION"
+			],
+			[
+				"progress",
+				"progressResult"
+			],
+			[
+				"erro",
+				"errorCheck"
+			],
+			[
+				"error",
+				"errorCheck"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"Course",
+				"CourseNumber"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"mb",
+				"mb_convert_encoding"
+			],
+			[
+				"mb_conver",
+				"mb_convert_encoding"
+			],
+			[
+				"mb_de",
+				"mb_detect_encoding"
+			],
+			[
+				"Comp",
+				"competency"
+			],
+			[
+				"lp",
+				"lp_green"
+			],
+			[
+				"lef",
+				"margin-left"
+			],
+			[
+				"left",
+				"left"
+			],
+			[
+				"light",
+				"lp_green_light"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"KSA",
+				"KSA_ID"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"getI",
+				"getID"
+			],
+			[
+				"inser",
+				"insert_institution"
+			],
+			[
+				"print",
+				"print_array"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"GROUP",
+				"GROUP_CONCAT"
+			],
+			[
+				"ksa",
+				"ksa_pivot"
+			],
+			[
+				"DATA",
+				"Database"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"getElemen",
+				"getElementById"
+			],
+			[
+				"fi",
+				"font-family"
+			],
+			[
+				"set",
+				"setTimeout(function, milliseconds);"
+			],
+			[
+				"soa",
+				"soap_size"
+			],
+			[
+				"soap",
+				"soap_price"
+			],
+			[
+				"sap",
+				"soap_name"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"va",
+				"VARCHAR"
+			],
+			[
+				"t",
+				"title	Attr"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"str_",
+				"str_split"
+			],
+			[
+				"bottom",
+				"margin-bottom"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"backgroun-c",
+				"background-color"
+			],
+			[
+				"subst",
+				"substr"
+			],
+			[
+				"substr",
+				"substr_replace"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"availabl",
+				"availableStart"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"DI",
+				"DIV	Tag"
+			],
+			[
+				"DIV",
+				"div"
+			],
+			[
+				"avail",
+				"availableStart"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"bott",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"le",
+				"margin-left"
+			],
+			[
+				"E",
+				"edmondsansMedium"
+			],
+			[
+				"AM",
+				"AM"
+			],
+			[
+				"on",
+				"onload	Attr"
+			],
+			[
+				"time",
+				"timeA24"
+			],
+			[
+				"course",
+				"courseLine"
+			],
+			[
+				"teach",
+				"teacherInfoLine"
+			],
+			[
+				"av",
+				"availLine"
+			],
+			[
+				"cour",
+				"courseLine"
+			],
+			[
+				"tea",
+				"teacherInfoline"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"avai",
+				"availCount"
+			],
+			[
+				"onC",
+				"onclick	Attr"
+			],
+			[
+				"ava",
+				"availSt"
+			],
+			[
+				"Avail",
+				"availibility"
+			],
+			[
+				"table",
+				"tableID"
+			],
+			[
+				"date",
+				"date"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/com/Main.java",
+			"settings":
+			{
+				"buffer_size": 1816,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "package com.utilities;\n\n\npublic class ArrayList{\n	\n}",
+			"file": "src/com/utilities/ArrayList.java",
+			"file_size": 0,
+			"file_write_time": 130689143691602101,
+			"settings":
+			{
+				"buffer_size": 52,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Development/Lode/Lode-Scape-master/birdeye/src/com/reed/birdseye/Level.java",
+			"settings":
+			{
+				"buffer_size": 1408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/com/utilities/TestFileReader.java",
+			"settings":
+			{
+				"buffer_size": 1173,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/com/castle/Room.java",
+			"settings":
+			{
+				"buffer_size": 416,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/com/utilities/Sorter.java",
+			"settings":
+			{
+				"buffer_size": 1630,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/com/utilities/InputMethods.java",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build.xml",
+			"settings":
+			{
+				"buffer_size": 856,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 561.0,
+		"selected_items":
+		[
+			[
+				"packagecon",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scop",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sco",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"inst",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Disable Package"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"sassB",
+				"SassBeautify"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 329.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/jcom",
+		"/C/jcom/src",
+		"/C/jcom/src/com",
+		"/C/jcom/src/com/utilities"
+	],
+	"file_history":
+	[
+		"/C/Users/Ian/Google Drive/Software Design/SoftwareDesign/Answers.txt",
+		"/C/Users/Ian/Google Drive/Software Design/SoftwareDesign/MoreHelpClues.txt",
+		"/C/Users/Ian/Google Drive/Software Design/SoftwareDesign/Clues.txt",
+		"/C/jcom/src/com/utilities/ArrayConverter.java",
+		"/C/jcom/STD_IN.txt",
+		"/C/jcom/src/com/castle/Room.java",
+		"/C/jcom/src/com/castle/PathFinder.java",
+		"/C/jcom/src/com/castle/Constants.java",
+		"/C/jcom/src/com/Compile.txt",
+		"/C/jcom/src/com/Compression/src/Test.java",
+		"/C/jcom/src/com/Main.java",
+		"/C/jcom/src/main.java",
+		"/C/xampp/htdocs/dirtyworking/app/routes.php",
+		"/C/xampp/htdocs/dirtyworking/app/start/global.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/home.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/footer/footer.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/intro.blade.php",
+		"/C/xampp/htdocs/dirtyworking/public/scss/_intro.scss",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/instafeed.blade.php",
+		"/C/Development/SpaceGame2/core/src/com/mygdx/game/SpaceShip.java",
+		"/C/Development/SampleTwo/core/src/com/mygdx/game/Constants.java",
+		"/C/Development/SampleTwo/core/src/com/MainClass.gwt.xml",
+		"/C/xampp/htdocs/dirtyworking/public/js/scripts.js",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/box.blade.php",
+		"/C/xampp/htdocs/dirtyworking/public/scss/application.scss",
+		"/C/xampp/htdocs/dirtyworking/public/scss/_box.scss",
+		"/C/xampp/htdocs/dirtyworking/public/scss/_response-points.scss",
+		"/C/xampp/htdocs/dirtyworking/public/scss/_base.scss",
+		"/C/xampp/htdocs/dirtyworking/app/views/meta/includes.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/head/navbar.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/layouts/base.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/hero2.blade.php",
+		"/C/xampp/htdocs/dirtyworking/public/scss/_navbar.scss",
+		"/C/xampp/htdocs/dirtyworking/public/scss/_card.scss",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/hero.blade.php",
+		"/C/xampp/htdocs/dirtyworking/public/scss/_global.scss",
+		"/C/Users/Ian/Google Drive/Data Structures/LabEleven/words.txt",
+		"/C/Users/Ian/Google Drive/Data Structures/Tree/starck.txt",
+		"/C/xampp/htdocs/dirtyworking - Copy/about.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/about/contact.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/about.blade.php",
+		"/C/Users/Ian/Google Drive/Data Structures/FamilyTree3/src/com/familyTree/client/FamilyTree.java",
+		"/C/Users/Ian/SkyDrive/Data Structures/ListExample/src/listexample/ListExample.java",
+		"/C/Development/game/core/src/com/mygdx/game/Portrait.java",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/about/about_card.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/database/migrations/2014_11_14_184239_create_soaps_table.php",
+		"/C/xampp/htdocs/dirtyworking/app/config/database.php",
+		"/C/Users/Ian/SkyDrive/Web Development/Images/Icons/Noun Project/Transportation/Food Truck/icon_4751.svg",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/shout.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/models/Soap.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/content/card.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/database/migrations/2014_10_28_191122_soap.php",
+		"/C/xampp/htdocs/dirtyworking/app/config/app.php",
+		"/C/xampp/htdocs/dirtyworking/sftp-config.json",
+		"/C/xampp/htdocs/dirtyworking/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ConfigurableSpool.php",
+		"/C/xampp/htdocs/dirtyworking/CONTRIBUTING.md",
+		"/C/xampp/htdocs/dirtyworking/composer.json",
+		"/C/xampp/htdocs/dirtyworking/app/controllers/SoapController.php",
+		"/C/xampp/htdocs/dirtyworking/public/images/icons/store_icon.svg",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/main.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/hello.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/filters.php",
+		"/C/xampp/htdocs/dirtyworking/vendor/composer/autoload_psr4.php",
+		"/C/xampp/htdocs/dirtyworking/artisan",
+		"/C/xampp/htdocs/dirtyworking/public/js/instafeed.js",
+		"/C/xampp/htdocs/dirtyworking/app/controllers/UserController.php",
+		"/C/Users/Ian/Desktop/Bay Convert/RecursiveMethods.java",
+		"/C/Users/Ian/Desktop/Bay Convert/Main.java",
+		"/C/xampp/htdocs/dirtyworking/app/views/login.blade.php",
+		"/C/xampp/htdocs/dirtyworking/bootstrap/start.php",
+		"/C/xampp/htdocs/dirtyworking/app/config/local/database.php",
+		"/C/xampp/htdocs/dirtyworking/app/database/migrations/2014_10_28_143902_create_users.php",
+		"/C/xampp/htdocs/dirtyworking/app/models/User.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/login/user_form.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/login/login.blade.php",
+		"/C/xampp/htdocs/dirtyworking/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php",
+		"/C/xampp/htdocs/dirtyworking/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOne.php",
+		"/C/xampp/htdocs/dirtyworking/vendor/predis/predis/lib/Predis/ResponseObjectInterface.php",
+		"/C/xampp/htdocs/dirtyworking/readme.md",
+		"/C/xampp/htdocs/dirtyworking/app/views/users/user_form.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/card.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/body/card.blade.php",
+		"/C/xampp/htdocs/dirtyworking/app/views/main.blade.php",
+		"/C/xampp/htdocs/dirtyworking/public/index.php",
+		"/C/Users/Ian/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/home",
+		"/C/users/ian/appdata/local/temp/sublime-sftp-browse-1413999121/home/etc/apache2/sites-available/dirtysoapla.com.conf",
+		"/C/users/ian/appdata/local/temp/sublime-sftp-browse-1413998831/home/etc/apache2/sites-available/dirtysoapla.com.conf",
+		"/C/users/ian/appdata/local/temp/sublime-sftp-browse-1413998763/home/etc/apache2/sites-available/dirtysoapla.com.conf",
+		"/C/xampp/htdocs/dirtyworking/app/views/hello.php",
+		"/C/xampp/htdocs/dirtyworking/public/scss/compass.scss",
+		"/C/xampp/htdocs/dirtyworking/index.php",
+		"/C/xampp/htdocs/ksa_app/scripts/gui_functions.php",
+		"/C/xampp/htdocs/ksa_app/scripts/parse_functions.php",
+		"/C/xampp/htdocs/ksa_app/uploaded.php",
+		"/C/xampp/htdocs/ksa_app/scripts/classes/Core.php",
+		"/C/xampp/htdocs/ksa_app/sql/competency_insert.sql",
+		"/C/xampp/htdocs/lp_map/sftp-config.json",
+		"/C/xampp/htdocs/lp_map/assets/scripts/Mailer.php",
+		"/C/xampp/htdocs/lp_map/assets/config/config.php",
+		"/C/xampp/php/logs/php_error_log",
+		"/C/xampp/htdocs/lp_map/assets/scripts/process.php",
+		"/C/xampp/htdocs/lp_map/assets/js/form.js",
+		"/C/xampp/htdocs/lp_map/views/contact_us.php",
+		"/C/Users/Ian/SkyDrive/Web Development/Templates/Email HTML/Boilerplate/seanpowell-Email-Boilerplate-c3465c0/email.html",
+		"/C/Users/Ian/AppData/Roaming/Sublime Text 3/Packages/ScopeHunter/scope_hunter.sublime-settings",
+		"/C/Users/Ian/AppData/Roaming/Sublime Text 3/Packages/User/scope_hunter.sublime-settings",
+		"/C/Users/Ian/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/lp_map/scripts/phpinfo.php",
+		"/C/xampp/htdocs/lp_map/scripts/include.php",
+		"/C/xampp/htdocs/lp_map/arlington.php",
+		"/C/xampp/htdocs/lp_map/scripts/send.php",
+		"/C/xampp/htdocs/lp_map/scripts/process.php",
+		"/C/xampp/htdocs/lp_map/views/footer_includes.html",
+		"/C/xampp/htdocs/lp_map/index.php",
+		"/C/Users/Ian/Desktop/Bay Convert/Model.java",
+		"/C/Users/Ian/Desktop/Bay Convert/Shares.java",
+		"/C/Users/Ian/Desktop/Bay Convert/ArrayQueue.java",
+		"/C/Users/Ian/Desktop/Bay Convert/GUI.java",
+		"/C/xampp/htdocs/lp_map/views/service.html",
+		"/C/Users/Ian/Desktop/Bay Convert/LabFive.java",
+		"/C/Users/Ian/Desktop/Bay Convert/Controller.java",
+		"/C/users/ian/appdata/local/temp/sublime-sftp-browse-1412797547/iancullinane/var/www/iancullinane.com/public_html/index.php",
+		"/C/Users/Ian/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/iancullinane",
+		"/C/xampp/htdocs/lp_map/services.txt",
+		"/C/users/ian/appdata/local/temp/sublime-sftp-browse-1412797506/iancullinane/var/www/iancullinane.com/public_html/lp/working/index.php",
+		"/C/Users/Ian/SkyDrive/Data Structures/lab5/ArrayQueue.java",
+		"/C/Users/Ian/Desktop/Bay Convert/input.txt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"instafee",
+			"organic",
+			"natural",
+			"box",
+			".box",
+			"box",
+			"content",
+			"box",
+			"legal",
+			"box",
+			"intro",
+			"footer",
+			"hero",
+			"navbar",
+			"about",
+			"contact",
+			"img",
+			"abou",
+			".card_title",
+			"parent",
+			"extends",
+			"conten",
+			"about_",
+			".conten",
+			"fill",
+			"img",
+			"content",
+			"side-right",
+			"caption",
+			"ignore",
+			"side-right",
+			"drop",
+			"content",
+			"svg",
+			"intro",
+			"drop",
+			"content",
+			"anchor",
+			"<a>",
+			"htmlString",
+			"font",
+			"}\n",
+			"forge",
+			"errorChec",
+			"ksa_two",
+			"min",
+			"mapped",
+			"map-canvas",
+			"daphlex",
+			"hero-unit",
+			"#",
+			"spacing",
+			"h1",
+			"promo",
+			".nav",
+			"TODO",
+			"navbar",
+			"nav",
+			"services-btn",
+			"navbar",
+			"navabr",
+			"navbar",
+			"#356635",
+			"356635",
+			"#356635",
+			"#",
+			"option",
+			".option",
+			"option",
+			"#",
+			"nav-collapse",
+			"option",
+			".nav",
+			"handel",
+			"-text",
+			"responseText",
+			"min.",
+			".js",
+			"forms.js",
+			"defa",
+			"contact us",
+			"services",
+			"btn-succ",
+			"btn-success",
+			"hover",
+			"link",
+			"visited",
+			"land-feat",
+			"fade",
+			"her-pattern",
+			"btn",
+			"min-width",
+			"services=btn",
+			"span12",
+			"services",
+			"hero-pattern",
+			"learn more",
+			"@media",
+			"fuck",
+			"shit",
+			"fuck",
+			"shit",
+			"max-width",
+			"@media",
+			"about-us-two",
+			"about-us",
+			"about-us-two",
+			"@media",
+			"about-us-two",
+			"@media",
+			"about-us",
+			"about",
+			"about-",
+			"@media",
+			"hero-unit",
+			"a full",
+			"//",
+			"about-us",
+			"land-feat",
+			"@media",
+			"(.*)\\s",
+			".about-us",
+			"@media",
+			"about-us",
+			"@media",
+			"backgr",
+			"header",
+			"return"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"ksa_three",
+			"<li>\n 	<i class=\"icon-caret-right\"></i>\n 	<a href=\"#\">$1</a> \n</li>\n",
+			"$1, MA\\n",
+			"$1, MA",
+			"$1compID$2",
+			"$1CompDesc$2",
+			"$1COMPETENCY$2",
+			"KsaDesc",
+			"ksaID",
+			"$1KSA$2",
+			"$1KSA",
+			"ksa_three",
+			"$1two",
+			"font_stack",
+			"green",
+			"",
+			"$1two",
+			"17",
+			"14",
+			"8",
+			"66",
+			"65",
+			"64",
+			"65",
+			"64",
+			"63",
+			"62",
+			"61",
+			"60",
+			"59",
+			"58",
+			"57",
+			"56",
+			"55",
+			"54",
+			"53",
+			"52",
+			"51",
+			"50",
+			"49",
+			"48",
+			"47",
+			"46",
+			"45",
+			"44",
+			"43",
+			"42",
+			"41",
+			"40",
+			"39",
+			"38",
+			"37",
+			"36",
+			"35",
+			"34",
+			"33",
+			"32",
+			"31",
+			"30",
+			"29",
+			"28",
+			"27",
+			"26",
+			"25",
+			"24",
+			"23",
+			"22",
+			"21",
+			"20",
+			"19",
+			"18",
+			"17",
+			"16",
+			"15",
+			"14",
+			"134",
+			"13",
+			"12",
+			"11",
+			"10",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"15",
+			"14",
+			"13",
+			"12",
+			"11",
+			"10",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"INSERT IGNORE INTO `ksa_one`.`KSA` (`KSA_ID`, `Statement`) VALUES ( \"$1\", \"$2\");",
+			"INSERT INTO `ksa_one`.`KSA` (`KSA_ID`, `Statement`) VALUES ( \"$1\", \"$2\");",
+			"$1IGNORE ",
+			"$1IGNORE",
+			"($1)IGNORE ",
+			"$1",
+			"INSERT INTO `ksa_one`.`KSA` (`KSA_ID`, `Statement`) VALUES ( \"$1\", \"$2\");",
+			"INSERT INTO `ksa_one`.`KSA` (`KSA_ID`, `Statement`) VALUES ( \"$1\", \"$2);\"",
+			"$1\", (\"$2\")",
+			"$1\",",
+			"\"$1\"",
+			"$1\"",
+			"'$1'",
+			"$1\"",
+			"\")",
+			"$1\"",
+			"\"",
+			"",
+			"'$1'\\n",
+			"'$1'",
+			", ",
+			"'$1'",
+			" NULL ",
+			"specialty,"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/com/Main.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								617,
+								617
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/com/utilities/ArrayList.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Development/Lode/Lode-Scape-master/birdeye/src/com/reed/birdseye/Level.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/com/utilities/TestFileReader.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/com/castle/Room.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/com/utilities/Sorter.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/com/utilities/InputMethods.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "build.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								856,
+								856
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 32.0
+	},
+	"output.sftp":
+	{
+		"height": 110.0
+	},
+	"project": "project_file.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config/da",
+				"app\\config\\database.php"
+			],
+			[
+				"app/views/body",
+				"app\\views\\body\\intro.blade.php"
+			],
+			[
+				"home",
+				"app\\controllers\\HomeController.php"
+			],
+			[
+				"route",
+				"app\\routes.php"
+			],
+			[
+				"style",
+				"C:\\users\\ian\\appdata\\local\\temp\\sublime-sftp-browse-1410877500\\eignh\\var\\www\\eignh.com\\public_html\\data\\scss\\style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Ian\\Desktop\\projects\\lpcomm.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 588.0,
+		"selected_items":
+		[
+		],
+		"width": 588.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 463.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
