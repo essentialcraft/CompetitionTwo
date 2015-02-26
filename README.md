@@ -10,9 +10,12 @@ So anyway, Moussavi said that Apache Ant will likely be available to us, so I wr
 To compile using Ant, install ant. 
 
 Then from the command line enter:
+```
     Ant -buildfile build.xml
+```
 
 Then run it with:
+```
     java -cp bin com.Main
-
+```
 So yea, thats it.
