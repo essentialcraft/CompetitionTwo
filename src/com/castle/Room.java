@@ -18,6 +18,17 @@ public class Room {
         doors = input;
     }
 
+    public void printDoors(){
+        System.out.println("+-+");
+        System.out.print("|"+ roomNumber + "|");
+        
+        for(int i : doors){
+            System.out.print(i + " ");
+        }
+
+        System.out.print("|\n");
+    }
+
     public int[] getDoors(){
         return doors;
     }
@@ -25,5 +36,7 @@ public class Room {
     public int getRoomNumber(){
         return roomNumber;
     }
+
+    
 
 }

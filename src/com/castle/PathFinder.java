@@ -1,5 +1,7 @@
 package com.castle;
 
+import java.util.ArrayList;
+
 /**
  * Created by Ian on 2/6/2015.
  */
@@ -13,18 +15,11 @@ public class PathFinder {
         pathBuilder = new StringBuilder(returnPath);
     }
 
-    public String pathfinder(Room[] input){
+    public void findPath(ArrayList<Room> input){
 
         for(Room r : input){
-            int[] temp = r.getDoors();
-
-            for(int i = 0; i < temp.length; i++){
-                if(temp[i] == r.getRoomNumber() + 1){
-                    pathBuilder.append(Constants.directions[i]);
-                }
-            }
+            r.printDoors();
         }
 
-        return returnPath;
     }
 }
